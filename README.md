@@ -1,5 +1,5 @@
 # icloud-calendar-export
-a script to export all events from icloud (or any caldav server)
+a script to export all events from icloud (or any caldav server) written in python3 
 
 ## usage
 
